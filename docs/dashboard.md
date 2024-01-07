@@ -1,6 +1,12 @@
+---
+hide:
+  - navigation
+  - toc
+---
+
 # Dashboard
 
-Awesome Dashboard integrated into mkdocs material. Awesome Dashboard integrated into mkdocs material. Awesome Dashboard integrated into mkdocs material.
+All diagrams are interactive and the project names are directly linked to the repositories. All plots are update once per week.
 
 === "With tabs"
     ``` plotly
@@ -8,20 +14,25 @@ Awesome Dashboard integrated into mkdocs material. Awesome Dashboard integrated 
         "file_path": "download_plot.json"
     }
     ```
-=== "Without"
+=== "With tabs"
 
+    ``` plotly
+    {
+        "file_path": "download_plot.json"
+    }
     ```
-    blabla
-    ```
-=== "Without"
+=== "With tabs"
 
+    ``` plotly
+    {
+        "file_path": "download_plot.json"
+    }
     ```
-    blabla
-    ```
-=== "Without"
-
-    ```
-    blabla
+=== "With tabs"
+    ``` plotly
+    {
+        "file_path": "download_plot.json"
+    }
     ```
 === "Without"
 
